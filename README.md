@@ -1,6 +1,7 @@
 # Easternly
 
 Easternly is a Game made by Rishi Yang
+The game was developed and runs best on MacOS
 
 Download the folder corresponding with your OS and play!
 
